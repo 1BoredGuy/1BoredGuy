@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @1BoredGuy
+- 👀 I’m interested in web-desinging
+- 🌱 I’m currently learning html and css codes
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: Don't do this!
